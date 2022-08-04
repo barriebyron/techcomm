@@ -13,17 +13,16 @@ Create your professional digital identity and then execute your action plan.
 
 ## 2. Grow a Linktree
 
-- Connect all of your content with a single link
+- Connect all of your content with a [single link](https://linktr.ee/barriebyron)
 - A landing page for your links
 - Grow and tend your Linktree
 - Links change
   
 ## 3. Learn and share on Twitter
 
-- Always professional
-- Never political
-- Always encouraging
-- Never discouraging
+- Always professional, never political
+- Always encouraging, never discouraging
+- [Learn and use](https://www.makeuseof.com/use-twitter-for-job-search/) lists and features, like [Tweetdeck](https://tweetdeck.twitter.com/)
 
 ## 4. Contribute on GitHub
 
@@ -33,7 +32,7 @@ Create your professional digital identity and then execute your action plan.
 
 ## 5. Find your community
 
-- Build, engage, and add value
+- Build, engage, contribute, listen, and add value
 - Say thank you
 - Say yes
 - [Write the Docs](https://www.writethedocs.org/)
@@ -46,13 +45,15 @@ Create your professional digital identity and then execute your action plan.
 
 ## 7. Always be learning
 
+- [Spark passion](https://www.careeraddict.com/lifelong-learning-advance-career)
+- Be eady to answer ["How do you learn?"](https://hbr.org/2021/05/identify-and-hire-lifelong-learners)
 - Attend events
 - Offer to teach
 - Mentor
 
 ## 8. Always DYOR
 
-- Do your own research
+- Do your own [research](https://www.glassdoor.com/blog/7-research-job-interview/)
 - Evaluate for your situation
 - Write it down
 - Proofread your own work
@@ -61,12 +62,12 @@ Create your professional digital identity and then execute your action plan.
 
 - Company website, all of it
 - Product docs for the role
-- Be prepared to speak about the content
+- Be prepared to speak about the [content](https://www.everythingtechnicalwriting.com/technical-writer-interview/)
 - Job description
 
 ## 10. Apply anyway
 
 - Interesting opportunity
 - Don't meet all requirements
-- Apply anyway
+- [Apply anyway](https://www.indeed.com/career-advice/finding-a-job/applying-for-a-job-with-less-experience-than-required)
 - Enjoy the process and the people
