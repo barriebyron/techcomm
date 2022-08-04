@@ -68,6 +68,6 @@ Create your professional digital identity and then execute your action plan.
 ## 10. Apply anyway
 
 - Interesting opportunity
-- Don't meet all requirements
+- Don't meet [all requirements](https://www.linkedin.com/posts/activity-6955989266548064256-ajTA?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Apply anyway](https://www.indeed.com/career-advice/finding-a-job/applying-for-a-job-with-less-experience-than-required)
 - Enjoy the process and the people
