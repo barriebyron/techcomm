@@ -42,6 +42,7 @@ Create your professional digital identity and then execute your action plan.
 
 - [Authentic curiousity](https://thriveglobal.com/stories/always-be-curious/) makes us more likeable
 - [Ask thoughtful questions](https://www.fastcompany.com/40574192/4-ways-to-show-curiosity-in-job-interviews-and-why-you-need-to)
+- [Be confident](https://www.linkedin.com/pulse/how-build-your-confidence-get-hired-by-linkedin-news/)
 
 ## 7. Always be learning
 
