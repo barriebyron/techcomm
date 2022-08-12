@@ -50,7 +50,7 @@ Create your professional digital identity and then execute your action plan.
 ## 7. Always be learning
 
 - [Spark passion](https://www.careeraddict.com/lifelong-learning-advance-career)
-- Be eady to answer ["How do you learn?"](https://hbr.org/2021/05/identify-and-hire-lifelong-learners)
+- Be ready to answer ["How do you learn?"](https://hbr.org/2021/05/identify-and-hire-lifelong-learners)
 - Attend events
 - Offer to teach
 - Mentor
