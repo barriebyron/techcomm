@@ -43,6 +43,9 @@ Create your professional digital identity and then execute your action plan.
 - [Authentic curiousity](https://thriveglobal.com/stories/always-be-curious/) makes us more likeable
 - [Ask thoughtful questions](https://www.fastcompany.com/40574192/4-ways-to-show-curiosity-in-job-interviews-and-why-you-need-to)
 - [Be confident](https://www.linkedin.com/pulse/how-build-your-confidence-get-hired-by-linkedin-news/)
+- Ask "what is your favorite part about your job here?"
+- Ask "what is a typical work day or work week for this role?"
+- Ask "what is the reporting structure" (what is the workflow? and so on)
 
 ## 7. Always be learning
 
@@ -72,3 +75,15 @@ Create your professional digital identity and then execute your action plan.
 - Don't meet [all requirements](https://www.linkedin.com/posts/activity-6955989266548064256-ajTA?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [Apply anyway](https://www.indeed.com/career-advice/finding-a-job/applying-for-a-job-with-less-experience-than-required)
 - Enjoy the process and the people
+
+## Bonus tips for every interview
+
+- Join early
+- Be in a quiet space
+- Wear headphones or earbuds
+- Wipe your camera so you are smudge-free
+- Use the interviewer's name
+- Have all of the resources mentioned here fresh in your mind
+- Have your links ready to share
+- If you don't understand the question, ask for for clarification
+- It's okay to say "I don't know"
