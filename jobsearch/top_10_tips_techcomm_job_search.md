@@ -13,17 +13,16 @@ Create your professional digital identity and then execute your action plan.
 
 ## 2. Grow a Linktree
 
-- Connect all of your content with a single link
+- Connect all of your content with a [single link](https://linktr.ee/barriebyron)
 - A landing page for your links
 - Grow and tend your Linktree
 - Links change
   
 ## 3. Learn and share on Twitter
 
-- Always professional
-- Never political
-- Always encouraging
-- Never discouraging
+- Always professional, never political
+- Always encouraging, never discouraging
+- [Learn and use](https://www.makeuseof.com/use-twitter-for-job-search/) lists and features, like [Tweetdeck](https://tweetdeck.twitter.com/)
 
 ## 4. Contribute on GitHub
 
@@ -33,7 +32,7 @@ Create your professional digital identity and then execute your action plan.
 
 ## 5. Find your community
 
-- Build, engage, and add value
+- Build, engage, contribute, listen, and add value
 - Say thank you
 - Say yes
 - [Write the Docs](https://www.writethedocs.org/)
@@ -43,16 +42,22 @@ Create your professional digital identity and then execute your action plan.
 
 - [Authentic curiousity](https://thriveglobal.com/stories/always-be-curious/) makes us more likeable
 - [Ask thoughtful questions](https://www.fastcompany.com/40574192/4-ways-to-show-curiosity-in-job-interviews-and-why-you-need-to)
+- [Be confident](https://www.linkedin.com/pulse/how-build-your-confidence-get-hired-by-linkedin-news/)
+- Ask "what is your favorite part about your job here?"
+- Ask "what is a typical work day or work week for this role?"
+- Ask "what is the reporting structure" (what is the workflow? and so on)
 
 ## 7. Always be learning
 
+- [Spark passion](https://www.careeraddict.com/lifelong-learning-advance-career)
+- Be ready to answer ["How do you learn?"](https://hbr.org/2021/05/identify-and-hire-lifelong-learners)
 - Attend events
 - Offer to teach
 - Mentor
 
 ## 8. Always DYOR
 
-- Do your own research
+- Do your own [research](https://www.glassdoor.com/blog/7-research-job-interview/)
 - Evaluate for your situation
 - Write it down
 - Proofread your own work
@@ -61,12 +66,24 @@ Create your professional digital identity and then execute your action plan.
 
 - Company website, all of it
 - Product docs for the role
-- Be prepared to speak about the content
+- Be prepared to speak about the [content](https://www.everythingtechnicalwriting.com/technical-writer-interview/)
 - Job description
 
 ## 10. Apply anyway
 
 - Interesting opportunity
-- Don't meet all requirements
-- Apply anyway
+- Don't meet [all requirements](https://www.linkedin.com/posts/activity-6955989266548064256-ajTA?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [Apply anyway](https://www.indeed.com/career-advice/finding-a-job/applying-for-a-job-with-less-experience-than-required)
 - Enjoy the process and the people
+
+## Bonus tips for every interview
+
+- Join early
+- Be in a quiet space
+- Wear headphones or earbuds
+- Wipe your camera so you are smudge-free
+- Use the interviewer's name
+- Have all of the resources mentioned here fresh in your mind
+- Have your links ready to share
+- If you don't understand the question, ask for for clarification
+- It's okay to say "I don't know"
