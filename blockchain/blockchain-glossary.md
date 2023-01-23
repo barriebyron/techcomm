@@ -11,7 +11,11 @@ crypto-assets, or a combination of such assets (the so called “reserve assets�
 
 ## B
 
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ## C
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### crypto-asset service provider (CASP)
 
@@ -20,25 +24,43 @@ crypto-asset services to third parties on a professional basis.
 
 ## D
 
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ### Decentralized Identifier (DID)
 
 A type of identifier that enables verifiable, decentralized digital identity. A globally unique persistent identifier that does not require a centralized registration authority and is often generated and/or registered cryptographically. DIDs are fully conformant [Universal Resource Identifiers (URIs)](https://www.ietf.org/rfc/rfc3986.txt). [W3C defines a DID](https://www.w3.org/TR/did-core/#a-simple-example) as a _portable URL-based identifier ... associated with an entity ... An example of a DID is `did:example:123456abcdef"*`_.  
+
+## E
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### e-money tokens (EMT)
 
 A type of crypto asset for one single fiat currency.
 
+## F
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ## Financial Action Task Force (FATF)
 
 The global money laundering and terrorist financing watchdog. The inter-governmental body sets international standards that aim to prevent these illegal activities and the harm they cause to society. As a policy-making body, the [FATF](https://www.fatf-gafi.org/about/) works to generate the necessary political will to bring about national legislative and regulatory reforms in these areas.
 
+## G
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ## H
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### holder
 
 In the SSI ecosystem, the holder receives identity credentials from an issuer.
 
 ## I
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### identity management (IdM)
 
@@ -52,17 +74,29 @@ The primary component of an identity management (IdM) system that creates, store
 
 In the SSI ecosystem, the issuer generates and issues identity credentials.
 
+## J
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
+## K
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ### key management system (KMS)
 
 A system for the management of cryptographic keys and their metadata.
 
 ## L
 
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ### legal person
 
 Any person or entity that is able to perform legal activities, such as enter into contracts, own property, and so on.
 
 ## M
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### Market in Crypto-assets (MiCA)
 
@@ -79,7 +113,11 @@ SSI agents, built on the Aries Go Framework, serve as a bridge between agents.
 
 ## N
 
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ## O
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### off-chain
 
@@ -91,11 +129,19 @@ Transactions that occur on a blockchain that are reflected on the distributed, p
 
 ## P
 
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ### protocol
 
 A critical component of blockchain technologies that allow information to be shared automatically, securely, and reliably across cryptocurrency networks. Essentially rules that define how data is allowed to be transferred between different computer systems in the field of computing
 
+## Q
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ## R
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### regulator
 
@@ -103,12 +149,24 @@ An entity that is established by governments or other organizations to oversee t
 
 ## S
 
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ### self-sovereign identity (SSI)
 
 An approach to digital identity that gives individuals control of their digital
 identities, this emerging identity model allows any person, organization, or subject to have multiple sovereign, persistent, and portable identities.
 
+## T
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
+## U
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
 ## V
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ### verifiable credential (VC)
 
@@ -138,6 +196,18 @@ transfer of virtual assets; iv. safekeeping and/or administration of virtual ass
 virtual assets; and v. participation in and provision of financial services related to an issuer’s offer and/or sale of
 a virtual
 asset.” [FATF guidance to the G20](https://www.fatf-gafi.org/publications/virtualassets/documents/report-g20-so-called-stablecoins-june-2020.html)
+
+## W
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
+## X
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
+
+## Y
+
+[A](glossary.md#a)  [B](glossary.md#b)  [C](glossary.md#c)  [D](glossary.md#d)  [E](glossary.md#e)  [F](glossary.md#f)  [G](glossary.md#g) [H](glossary.md#h)  [I](glossary.md#i)  [J](glossary.md#j)  [K](glossary.md#k)  [L](glossary.md#l)  [M](glossary.md#m)  [N](glossary.md#n)  [O](glossary.md#o)  [P](glossary.md#p)  [Q](glossary.md#q)  [R](glossary.md#r)  [S](glossary.md#s)  [T](glossary.md#t)  [U](glossary.md#u)  [V](glossary.md#v)  [W](glossary.md#w)  [X](glossary.md#x)  [Y](glossary.md#y)  [Z](glossary.md#z)
 
 ## Z
 
