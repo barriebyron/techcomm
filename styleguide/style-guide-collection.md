@@ -29,7 +29,8 @@ I collect style guides for reference, inspiration, and models of how organizatio
 - [Google developer documentation API reference](https://developers.google.com/style/api-reference-comments)
 
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
-[DigitalOcean Product Documentation Style Guide](https://www.digitalocean.com/docs/style/)
+
+- [DigitalOcean Product Documentation Style Guide](https://www.digitalocean.com/docs/style/)
 
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 
