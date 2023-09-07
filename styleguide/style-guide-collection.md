@@ -28,15 +28,17 @@ I collect style guides for reference, inspiration, and models of how organizatio
 
 - [Google developer documentation API reference](https://developers.google.com/style/api-reference-comments)
 
-- [Apple Style Guide](https://help.apple.com/applestyleguide/)
+- [Apple Style Guide](https://support.apple.com/guide/applestyleguide/welcome/web)
 
 - [DigitalOcean Product Documentation Style Guide](https://www.digitalocean.com/docs/style/)
 
-- [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
-
 - [GitLab Docs Documentation Style Guide](https://docs.gitlab.com/ee/development/contributing/style_guides.html)
 
+- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
+
 - [MongoDB Documentation Style Guide](https://www.mongodb.com/docs/meta/style-guide/)
+
+- [New Relic Style Guide](https://docs.newrelic.com/docs/style-guide/)
 
 - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
 
@@ -47,6 +49,8 @@ I collect style guides for reference, inspiration, and models of how organizatio
 - [1Password Style Guide](https://support.1password.com/style-guide/)
 
 ## Bonus resources
+
+- [Website style guide resources](http://styleguides.io/examples#writing) Real life pattern libraries, code standards documents and content style guides.
 
 - [Style Guides: What Goes In Them and What Can They Cover?](https://www.single-sourcing.com/events/using-style-guides-to-achieve-content-collaboration-and-consistency/) from my friend Liz Fraley at Single Sourcing Solutions
 
